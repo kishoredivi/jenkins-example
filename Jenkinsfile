@@ -1,4 +1,4 @@
-@Library('jenkins-demo-lib')_
+@Library('jenkins-demo-lib@master')_
 
 stage('Demo')
 {
