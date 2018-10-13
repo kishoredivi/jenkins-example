@@ -5,3 +5,7 @@ stage('Demo')
 echo "Hello World"
 sayHello()
 }
+stage('maven build')
+{
+  mavenBuild()
+}
